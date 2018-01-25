@@ -2,7 +2,7 @@
   <br>
   <img width="400" src="https://rawgit.com/brandon93s/ui-framework-comparison/master/media/logos.svg" alt="ui-framework-comparison" />
   <br>
-    <br>
+  <br>
 </h1>
 
 # ui-framework-comparison
@@ -11,14 +11,14 @@ The goal of *ui-framework-comparison* is to provide an objective, criteria-based
 
 ## Current Candidates
 
-### [Angular](/angular)
-*One framework. Mobile & desktop.* ([more](/angular))
+### [Angular](/angular) 
+*One framework. Mobile & desktop.* ([more](/angular)) 
 
-### [React](/react)
-*A JavaScript library for building user interfaces* ([more](/react))
+### [React](/react) 
+*A JavaScript library for building user interfaces* ([more](/react)) 
 
-### [Vue.js](/vuejs)
-*The Progressive JavaScript Framework* ([more](/vuejs))
+### [Vue.js](/vuejs) 
+*The Progressive JavaScript Framework* ([more](/vuejs)) 
 
 
 
