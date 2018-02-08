@@ -2,7 +2,7 @@
 
 # Criteria
 ## Is hot reloading supported? 
-Yes - no need to F5 and don't lose state!
+Yes - no need to F5 and you don't lose state!
 
 ## Is time-travel debugging of state supported? 
 

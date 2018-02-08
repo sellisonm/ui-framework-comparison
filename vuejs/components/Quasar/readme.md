@@ -35,8 +35,6 @@ HTML minified with html-minifier
 CSS across all components extracted into a single file and minified with cssnano
 All static assets are compiled with version hashes for efficient long-term caching, and a production index.html is auto-generated with proper URLs to these generated assets.
 
-## Things I LOVE
-
 
 ## Considerations
 ### Do the identified libraries have official support or are they community built? 

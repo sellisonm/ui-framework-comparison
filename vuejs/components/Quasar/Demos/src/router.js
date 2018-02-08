@@ -30,6 +30,8 @@ export default new VueRouter({
     { path: '/demos', component: load('Demos') },
 
     // Always leave this last one
-    { path: '*', component: load('Error404') } // Not found
+    { path: '*', component: load('Error404') }, // Not found
+
+    { path: '/scott-inputpage', component: load('Scott-InputPage') }
   ]
 })
